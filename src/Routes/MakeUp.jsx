@@ -5,7 +5,7 @@ import Copyright from "../Components/Copyright";
 function MakeUp() {
   return (
     <>
-      <h1>Welcome To MakeUp</h1>
+      {/* <h1>Welcome To MakeUp</h1> */}
       <MakeUpBanner />
       {/* Heading start */}
       <div className="article_1_makeUp">

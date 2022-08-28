@@ -5,7 +5,7 @@ import Copyright from "../Components/Copyright";
 function HealthWellness() {
   return (
     <div>
-      <h1>Welcome to Health Wellness</h1>
+      {/* <h1>Welcome to Health Wellness</h1> */}
       {/* Top Section */}
       <div className="healthwellness_link">
         <p>HEALTH AND WELLNESS</p>

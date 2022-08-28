@@ -4,11 +4,13 @@
   box-sizing: border-box;
 }
 .article_1_makeUp{
-  /* border: 1px solid rgb(221, 187, 187); */
+  /* border: 1px solid rgb(230, 177, 177); */
   letter-spacing: 1.1px;
   display: flex;
   margin: auto;
   width: 90%;
+  margin-top: 2rem;
+  border-radius: 5px;
 }
 .article_1_title {
   /* border: 2px solid red; */
@@ -19,7 +21,7 @@
   cursor: pointer;
 }
 .article_1_title > h1:hover {
-  text-decoration: underline;
+  text-decoration: rgb(240, 136, 118) underline;
 }
 .article_1_img {
   /* border: 2px solid teal; */
@@ -60,4 +62,8 @@
 .card > p {
   font-size: 22px;
 margin-bottom: 1rem;
+cursor: pointer;
+}
+.card > p:hover{
+  text-decoration:  rgb(240, 136, 118) underline;
 }

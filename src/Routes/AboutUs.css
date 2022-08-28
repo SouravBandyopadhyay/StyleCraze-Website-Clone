@@ -38,6 +38,7 @@ nav ul li a {
 
 a.current:hover{
 text-decoration: 2px #FF5A78 underline;
+color:#FF5A78 ;
 }
 main{
     /* border: 1px solid red; */

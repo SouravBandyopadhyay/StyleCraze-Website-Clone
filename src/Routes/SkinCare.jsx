@@ -8,29 +8,51 @@ import Spinner from "react-bootstrap/Spinner";
 function SkinCare() {
   const [posts, setPosts] = useState([]);
   const [loading, setLoading] = useState(false);
+  const axios = require("axios");
+
+  const options = {
+    method: "GET",
+    url: "https://makeup.p.rapidapi.com/products.json",
+    params: { brand: "maybelline" },
+    headers: {
+      "X-RapidAPI-Key": "5f6fbc43c7msh7b2892562f48991p1a0887jsn43b5969c2659",
+      "X-RapidAPI-Host": "makeup.p.rapidapi.com",
+    },
+  };
 
   const getApi3 = () => {
+    // axios
+    //   .get(
+    //     `http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline`
+    //   )
+    //   .then((res) => {
+    //     console.log(res.data);
+    //     setPosts(res.data);
+    //     setLoading(true);
+    //   })
+    //   .catch((err) => {
+    //     console.log(err);
+    //   });
+
     axios
-      .get(
-        `http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline`
-      )
-      .then((res) => {
-        console.log(res.data);
-        setPosts(res.data);
+      .request(options)
+      .then(function (response) {
+        console.log(response.data);
+        setPosts(response.data);
         setLoading(true);
       })
-      .catch((err) => {
-        console.log(err);
+      .catch(function (error) {
+        console.error(error);
       });
   };
   useEffect(() => {
     setTimeout(() => {
       getApi3();
-    }, 2000);
+    }, 1000);
   }, []);
   return (
     <>
-      <h1>Welcome to SkinCare</h1>
+      {/* <h1>Welcome to SkinCare</h1> */}
       <p className="facial_p_desc">
         A facial is a skin care treatment that involves exfoliating and
         cleansing to eliminate dirt, dead skin, and impurities. It can be

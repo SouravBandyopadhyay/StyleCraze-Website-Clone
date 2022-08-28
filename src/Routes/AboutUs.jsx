@@ -7,7 +7,7 @@ import "./AboutUs.css";
 function AboutUs() {
   return (
     <>
-      <h1>Welcome to About Us</h1>
+      {/* <h1>Welcome to About Us</h1> */}
       <div className="aboutus_body">
         <nav>
           <ul>

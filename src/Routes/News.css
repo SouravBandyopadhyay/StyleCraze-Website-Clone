@@ -14,7 +14,7 @@
   -webkit-box-shadow: 10px 10px 0px 3px rgba(255,90,120,0.95);
   -moz-box-shadow: 10px 10px 0px 3px rgba(255,90,120,0.95);
   box-shadow: 10px 10px 0px 3px rgba(255,90,120,0.95);
-
+border-radius: 5px;
   
 }
 .news_api_box>h2{

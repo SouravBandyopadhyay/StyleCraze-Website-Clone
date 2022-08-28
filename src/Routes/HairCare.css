@@ -11,12 +11,13 @@
   color: black;
 }
 .article_start_haircare {
-  margin-top: 1rem;
-  border: 2px solid red;
+  /* border: 2px solid red; */
   font-size: 32px;
   letter-spacing: 1.1px;
   width: 90%;
   margin: auto;
+  margin-top: 2rem;
+
 }
 .article_start_haircare > img {
   margin-top: 0.5rem;
@@ -24,7 +25,7 @@
 }
 .article_body_hair {
     width: 90%;
-  border: 2px solid teal;
+  /* border: 2px solid teal; */
   justify-content: center;
   letter-spacing: 1.1px;
   /* display: flex; */
@@ -32,16 +33,17 @@
 }
 #about_article {
   color: tomato;
+  margin-top: 1rem;
 }
 .list_article_hair {
-  border: 2px solid red;
+  /* border: 2px solid red; */
   font-size: 20px;
   width: 70%;
   justify-content: left;
   margin: auto;
 }
 .article_body_hair_desc {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   width: 70%;
   justify-content: start;
   margin: auto;
@@ -49,7 +51,5 @@
 }
 .article_body_hair_desc > h3 {
   font-size: 28px;
+  color: tomato;
 }
-/* .article_body_hair_logo_section{
-
-} */

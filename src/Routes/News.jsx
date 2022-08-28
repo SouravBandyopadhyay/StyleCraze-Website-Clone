@@ -38,7 +38,7 @@ function News() {
 
   return (
     <>
-      <h1>Welcome to Section News</h1>
+      <h1>Trending News Around the world</h1>
       {/* API rendering */}
       {loading ? (
         news.map((el) => (

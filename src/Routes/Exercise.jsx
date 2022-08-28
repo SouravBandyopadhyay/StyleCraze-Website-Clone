@@ -40,7 +40,7 @@ function Exercise() {
 
   return (
     <>
-      <h1>Welcome to Exercise Page</h1>
+      {/* <h1>Welcome to Exercise Page</h1> */}
 
       {/* API rendering */}
 

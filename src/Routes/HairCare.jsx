@@ -6,7 +6,7 @@ HairProductBanner;
 function HairCare() {
   return (
     <>
-      <h1>Welcome To Hair Care</h1>
+      {/* <h1>Welcome To Hair Care</h1> */}
       <HairProductBanner />
       {/* Start Page */}
       <div className="haircare_title">
@@ -26,7 +26,7 @@ function HairCare() {
       <div className="article_body_hair">
         <h2 id="about_article">In This Article</h2>
         <div className="list_article_hair">
-          <ul>
+          
         <li id="What Causes Dandruff?">
           {" "}
           <a href="#What Causes Dandruff?">What Causes Dandruff?</a>{" "}
@@ -43,7 +43,7 @@ function HairCare() {
             What Are The Best Home Remedies For Dandruff
           </a>{" "}
         </li>
-        </ul>
+        
         </div>
         
 

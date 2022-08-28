@@ -15,7 +15,7 @@ import Footer from "../Components/Footer"
 function Home() {
   return (
     <div>
-      <h1>Welcome to Home Page</h1>
+      {/* <h1>Welcome to Home Page</h1> */}
 
       {/* Top Heading - 1 */}
       <div className="heading_1">
