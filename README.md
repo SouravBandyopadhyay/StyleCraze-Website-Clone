@@ -24,30 +24,39 @@ To deploy this project run
 - Displaying Skincare/News/Exercise page using API
 - Infinite Loop Banner
 - Use of React to calculate BMI
+- Spinner Effect Using React
 
 
 ## Screenshots
+**NavBar Section**
+<br/>
+<br/>
+![App Screenshot](https://i.postimg.cc/nrcjGFqg/Web-capture-31-8-2022-04939-serene-khapse-d163a3-netlify-app.jpg)
+<br/>
+**Footer Section**
+<br/>
+<br/>
+![App Screenshot](https://i.postimg.cc/GmNf092P/Web-capture-31-8-2022-05247-serene-khapse-d163a3-netlify-app.jpg)
+<br/>
 **Home Page**
-<br />
-<br />
-![App Screenshot](https://i.postimg.cc/jSJbn60J/Web-capture-31-8-2022-01618-serene-khapse-d163a3-netlify-app.jpg)
-<br />
-<br />
-**Health and Wellness Page**
-<br />
-<br />
-![App Screenshot](https://i.postimg.cc/v8JBqmY9/Web-capture-31-8-2022-0178-serene-khapse-d163a3-netlify-app.jpg)
-<br />
-<br />
+<br/>
+<br/>
+![App Screenshot](https://i.postimg.cc/5N8q33QM/Web-capture-31-8-2022-05622-serene-khapse-d163a3-netlify-app.jpg)
+<br/>
+**SkinCare Page**
+<br/>
+<br/>
+![App Screenshot](https://i.postimg.cc/KY3n1D2V/Web-capture-31-8-2022-1324-serene-khapse-d163a3-netlify-app.jpg)
+<br/>
+
 **Exercise Page** 
-<br />
-<br />
-![App Screenshot](https://i.postimg.cc/vBjjyB3w/Web-capture-31-8-2022-01732-serene-khapse-d163a3-netlify-app.jpg)
-<br />
-<br />
-**About Us Page**
-<br />
-<br />
-![App Screenshot](https://i.postimg.cc/TPSVtWtm/Web-capture-31-8-2022-01755-serene-khapse-d163a3-netlify-app.jpg)
+<br/>
+<br/>
+![App Screenshot](https://i.postimg.cc/Dz3zcrGR/Web-capture-31-8-2022-1438-serene-khapse-d163a3-netlify-app.jpg)
+<br/>
+**News Page**
+<br/>
+<br/>
+![App Screenshot](https://i.postimg.cc/nVWpkKbT/Web-capture-31-8-2022-1545-serene-khapse-d163a3-netlify-app.jpg)
 
 
