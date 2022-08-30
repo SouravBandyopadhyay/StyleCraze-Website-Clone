@@ -29,13 +29,16 @@ To deploy this project run
 ## Screenshots
 **Home Page**
 ![App Screenshot](https://i.postimg.cc/jSJbn60J/Web-capture-31-8-2022-01618-serene-khapse-d163a3-netlify-app.jpg)
-
+<br />
+<br />
 **Health and Wellness Page**
 ![App Screenshot](https://i.postimg.cc/v8JBqmY9/Web-capture-31-8-2022-0178-serene-khapse-d163a3-netlify-app.jpg)
-
+<br />
+<br />
 **Exercise Page** 
 ![App Screenshot](https://i.postimg.cc/vBjjyB3w/Web-capture-31-8-2022-01732-serene-khapse-d163a3-netlify-app.jpg)
-
+<br />
+<br />
 **About Us Page**
 ![App Screenshot](https://i.postimg.cc/TPSVtWtm/Web-capture-31-8-2022-01755-serene-khapse-d163a3-netlify-app.jpg)
 
