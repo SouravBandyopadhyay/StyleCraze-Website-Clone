@@ -33,16 +33,19 @@ To deploy this project run
 <br/>
 ![App Screenshot](https://i.postimg.cc/nrcjGFqg/Web-capture-31-8-2022-04939-serene-khapse-d163a3-netlify-app.jpg)
 <br/>
+
 **Footer Section**
 <br/>
 <br/>
 ![App Screenshot](https://i.postimg.cc/GmNf092P/Web-capture-31-8-2022-05247-serene-khapse-d163a3-netlify-app.jpg)
 <br/>
+
 **Home Page**
 <br/>
 <br/>
 ![App Screenshot](https://i.postimg.cc/5N8q33QM/Web-capture-31-8-2022-05622-serene-khapse-d163a3-netlify-app.jpg)
 <br/>
+
 **SkinCare Page**
 <br/>
 <br/>
@@ -54,6 +57,7 @@ To deploy this project run
 <br/>
 ![App Screenshot](https://i.postimg.cc/Dz3zcrGR/Web-capture-31-8-2022-1438-serene-khapse-d163a3-netlify-app.jpg)
 <br/>
+
 **News Page**
 <br/>
 <br/>
